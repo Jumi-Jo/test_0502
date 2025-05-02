@@ -1,0 +1,7 @@
+3가지 올리는 단계
+1. git add .  (준비)
+2. git commit -m "커밋메세지"
+3. git push 
+
+받는 거
+git pull
